@@ -1,0 +1,11 @@
+bikes/
+epochs/
+data/
+models/
+archive/
+siwiectech-sandbox-key.json
+/bikes
+/data
+venv/
+cropped_bikes.zip
+tmp*
